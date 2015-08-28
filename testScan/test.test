@@ -1,0 +1,54 @@
+Type "search <Enter>" to stop inserting and start searching.
+>> Insert a with 1
+>> Insert b with 2
+>> Insert c with 3
+>> Insert e with 4
+>> Insert face with 5
+>> Insert d with 6
+>> Insert f with 7
+>> Insert g with 8
+>> Insert h with 9
+>> Insert i with 10
+>> Insert j with 11
+>> Insert k with 12
+>> Insert l with 13
+>> Insert m with 14
+>> Insert n with 15
+>> Insert o with 16
+>> Insert p with 17
+>> Insert q with 18
+>> Insert r with 19
+>> Insert s with 20
+>> bucket[ 0] --> NULL
+bucket[ 1] --> NULL
+bucket[ 2] --> NULL
+bucket[ 3] --> NULL
+bucket[ 4] --> a:[1] --> NULL
+bucket[ 5] --> b:[2] --> NULL
+bucket[ 6] --> c:[3] --> NULL
+bucket[ 7] --> d:[6] --> NULL
+bucket[ 8] --> e:[4] --> NULL
+bucket[ 9] --> f:[7] --> NULL
+bucket[10] --> g:[8] --> NULL
+bucket[11] --> h:[9] --> NULL
+bucket[12] --> i:[10] --> NULL
+bucket[13] --> j:[11] --> NULL
+bucket[14] --> k:[12] --> NULL
+bucket[15] --> l:[13] --> NULL
+bucket[16] --> m:[14] --> NULL
+bucket[17] --> n:[15] --> NULL
+bucket[18] --> o:[16] --> NULL
+bucket[19] --> p:[17] --> NULL
+bucket[20] --> q:[18] --> NULL
+bucket[21] --> r:[19] --> NULL
+bucket[22] --> s:[20] --> NULL
+bucket[23] --> NULL
+bucket[24] --> NULL
+bucket[25] --> NULL
+bucket[26] --> NULL
+bucket[27] --> face:[5] --> NULL
+bucket[28] --> NULL
+bucket[29] --> NULL
+bucket[30] --> NULL
+Type "quit <Enter>" to exit.
+>> 
