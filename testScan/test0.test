@@ -1,0 +1,54 @@
+Type "search <Enter>" to stop inserting and start searching.
+>> Insert ab with 1
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Insert ac with 6
+>> Insert ad with 7
+>> Insert ae with 8
+>> Insert af with 9
+>> Insert ag with 10
+>> Insert ah with 11
+>> Insert aj with 12
+>> Insert ak with 13
+>> Insert al with 14
+>> Insert am with 15
+>> Insert an with 16
+>> Insert bab with 17
+>> Insert aba with 18
+>> Not inserted...! (-1)
+>> Insert dad with 20
+>> bucket[ 0] --> NULL
+bucket[ 1] --> NULL
+bucket[ 2] --> NULL
+bucket[ 3] --> NULL
+bucket[ 4] --> NULL
+bucket[ 5] --> NULL
+bucket[ 6] --> NULL
+bucket[ 7] --> NULL
+bucket[ 8] --> NULL
+bucket[ 9] --> ab:[1] --> NULL
+bucket[10] --> ac:[6] --> NULL
+bucket[11] --> ad:[7] --> NULL
+bucket[12] --> ae:[8] --> NULL
+bucket[13] --> af:[9] --> aba:[18] --> NULL
+bucket[14] --> ag:[10] --> bab:[17] --> NULL
+bucket[15] --> ah:[11] --> NULL
+bucket[16] --> NULL
+bucket[17] --> aj:[12] --> NULL
+bucket[18] --> ak:[13] --> dad:[20] --> NULL
+bucket[19] --> al:[14] --> NULL
+bucket[20] --> am:[15] --> NULL
+bucket[21] --> an:[16] --> NULL
+bucket[22] --> NULL
+bucket[23] --> NULL
+bucket[24] --> NULL
+bucket[25] --> NULL
+bucket[26] --> NULL
+bucket[27] --> NULL
+bucket[28] --> NULL
+bucket[29] --> NULL
+bucket[30] --> NULL
+Type "quit <Enter>" to exit.
+>> 

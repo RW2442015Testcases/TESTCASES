@@ -1,0 +1,118 @@
+Type "search <Enter>" to stop inserting and start searching.
+>> Insert 1 with 1
+>> Insert 2 with 2
+>> Insert 3 with 3
+>> Insert 4 with 4
+>> Insert 5 with 5
+>> Insert 6 with 6
+>> Insert 7 with 7
+>> Insert 8 with 8
+>> Insert 9 with 9
+>> Insert 10 with 10
+>> Insert 11 with 11
+>> Insert 12 with 12
+>> Insert 13 with 13
+>> Insert 14 with 14
+>> Insert 15 with 15
+>> Insert 16 with 16
+>> Insert 17 with 17
+>> Insert 18 with 18
+>> Insert 19 with 19
+>> Insert 20 with 20
+>> Insert 21 with 21
+>> Insert sdaf with 22
+>> Insert g with 23
+>> Insert rwe with 24
+>> Not inserted...! (-1)
+>> Insert eg with 26
+>> Not inserted...! (-1)
+>> Insert rg with 28
+>> Insert e with 29
+>> Not inserted...! (-1)
+>> Insert re with 31
+>> Insert ger with 32
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Insert erwg with 36
+>> Insert erw with 37
+>> Not inserted...! (-1)
+>> Insert ewr with 39
+>> Insert ge with 40
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Insert wrg with 44
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> Insert rwg with 52
+>> Not inserted...! (-1)
+>> Not inserted...! (-1)
+>> bucket[ 0] --> NULL
+bucket[ 1] --> NULL
+bucket[ 2] --> NULL
+bucket[ 3] --> NULL
+bucket[ 4] --> NULL
+bucket[ 5] --> NULL
+bucket[ 6] --> NULL
+bucket[ 7] --> NULL
+bucket[ 8] --> NULL
+bucket[ 9] --> NULL
+bucket[10] --> erwg:[36] --> NULL
+bucket[11] --> NULL
+bucket[12] --> NULL
+bucket[13] --> ger:[32] --> NULL
+bucket[14] --> NULL
+bucket[15] --> NULL
+bucket[16] --> NULL
+bucket[17] --> NULL
+bucket[18] --> NULL
+bucket[19] --> NULL
+bucket[20] --> NULL
+bucket[21] --> eg:[26] --> ge:[40] --> NULL
+bucket[22] --> NULL
+bucket[23] --> NULL
+bucket[24] --> NULL
+bucket[25] --> NULL
+bucket[26] --> NULL
+bucket[27] --> NULL
+bucket[28] --> NULL
+bucket[29] --> rwe:[24] --> erw:[37] --> ewr:[39] --> NULL
+bucket[30] --> NULL
+bucket[31] --> wrg:[44] --> rwg:[52] --> NULL
+bucket[32] --> re:[31] --> NULL
+bucket[33] --> NULL
+bucket[34] --> rg:[28] --> NULL
+bucket[35] --> NULL
+bucket[36] --> 10:[10] --> NULL
+bucket[37] --> 11:[11] --> 20:[20] --> NULL
+bucket[38] --> 12:[12] --> 21:[21] --> NULL
+bucket[39] --> 13:[13] --> NULL
+bucket[40] --> 14:[14] --> e:[29] --> NULL
+bucket[41] --> 15:[15] --> NULL
+bucket[42] --> 16:[16] --> g:[23] --> NULL
+bucket[43] --> 17:[17] --> NULL
+bucket[44] --> 18:[18] --> NULL
+bucket[45] --> 19:[19] --> NULL
+bucket[46] --> NULL
+bucket[47] --> NULL
+bucket[48] --> sdaf:[22] --> NULL
+bucket[49] --> 1:[1] --> NULL
+bucket[50] --> 2:[2] --> NULL
+bucket[51] --> 3:[3] --> NULL
+bucket[52] --> 4:[4] --> NULL
+bucket[53] --> 5:[5] --> NULL
+bucket[54] --> 6:[6] --> NULL
+bucket[55] --> 7:[7] --> NULL
+bucket[56] --> 8:[8] --> NULL
+bucket[57] --> 9:[9] --> NULL
+bucket[58] --> NULL
+bucket[59] --> NULL
+bucket[60] --> NULL
+Type "quit <Enter>" to exit.
+>> 
