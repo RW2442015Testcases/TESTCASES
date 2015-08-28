@@ -1,0 +1,4 @@
+Put the files with your src folder.
+Run the testhtml.sh bash with $./testhtml.sh and flow instructions.
+If your text color is red it is diffrent then my files so let me know of my mistakes please.
+If the text color is green it is good.
